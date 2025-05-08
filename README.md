@@ -4,7 +4,7 @@ A fully responsive multi-page university website built using HTML5 and CSS3. Thi
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://alfishanshaikh.github.io/university-site)
+🔗 [View Live Site](https://alfishanshaikh.github.io/university-site/) 
 
 ---
 
@@ -20,10 +20,19 @@ A fully responsive multi-page university website built using HTML5 and CSS3. Thi
 
 ---
 
-## 📁 Project Structure
-
-
-
+## 📂 Project Structure
+```
+university-site/
+├── index.html # Home Page
+├── about.html # About Us Page
+├── courses.html # Courses Page
+├── blog.html # Blog Page
+├── contact.html # Contact Page
+├── css/
+│ └── style.css # Main stylesheet
+├── images/ # Image assets
+└── README.md # Project documentation
+```
 ---
 
 ## 🛠️ Technologies Used
@@ -55,9 +64,22 @@ A fully responsive multi-page university website built using HTML5 and CSS3. Thi
 
 ## 📷 Screenshots
 
-> _Add screenshots here if available (optional)_  
-> Example:  
-> ![Home Page](images/screenshot-home.png)
+ ![screenshot](https://github.com/AlfishanShaikh/university-site/blob/797317732918a277e6c5d55883a2f059382bb34f/screenshot%201.png)
+
+---
+
+## 🚀 How to Use
+1. **Clone the repository:**
+   ```sh
+   https://github.com/AlfishanShaikh/university-site
+   ```
+2. Open the project folder:
+   ```sh
+   cd university-site
+   ```
+3. **Open `index.html` in your browser:**
+
+- You can double-click `index.html` or open it using a local server like Live Server (VS Code extension).
 
 ---
 
